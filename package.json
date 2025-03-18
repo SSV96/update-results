@@ -1,0 +1,15 @@
+
+{
+  "name": "update-results",
+  "version": "1.0.0",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/handler.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
